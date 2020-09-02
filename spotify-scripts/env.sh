@@ -4,5 +4,5 @@
 
 CLIENT_ID=9fceb1e48ecb4214ab17eb3173f59d01
 RESPONSE_TYPE=code
-REDIRECT_URI=http://localhost:8000/retrieve
-
+REDIRECT_URI=http://127.0.0.1:5000/retrieve
+CLIENT_SECRET=
